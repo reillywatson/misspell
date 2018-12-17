@@ -27426,6 +27426,7 @@ var DictMain = []string{
 	"amking", "making",
 	"ammend", "amend",
 	"amoung", "among",
+	"amoutn", "amount",
 	"aplied", "applied",
 	"appart", "apart",
 	"aquire", "acquire",
